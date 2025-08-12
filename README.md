@@ -4,6 +4,10 @@
 
 <h1 align="center">🌬️ Wind Stack | Vexanium</h1>
 <p align="center">
+  <a href="https://github.com/windvex"><img alt="Followers" src="https://img.shields.io/github/followers/windvex?style=social"></a>
+  <a href="https://github.com/windvex/windkit"><img alt="Stars" src="https://img.shields.io/github/stars/windvex/windkit?style=social"></a>
+</p>
+<p align="center">
   <b>Open-source infrastructure & developer tools for the Vexanium blockchain ecosystem.</b><br/>
   Powering DApps, wallets, and node services.
 </p>
