@@ -35,3 +35,14 @@ We build **secure, scalable, and open-source tools** for the Vexanium blockchain
 <p align="center">
   <sub>© 2025 Wind Stack | Vexanium — Open-source under MIT License</sub>
 </p>
+
+
+## 🌌 Ecosystem
+
+| Project / Package       | Description | Links |
+|------------------------|-------------|-------|
+| **WindKit** *(npm)*    | Protocol for connecting Vexanium DApps to the Wind wallet with secure communication & signing. | [GitHub](https://github.com/windvex/windkit) · [npm](https://www.npmjs.com/package/windkit) |
+| **WindNode** *(soon)*  | High-availability API & Hyperion endpoints for Vexanium mainnet. | *(coming soon)* |
+| **WindWallet** *(Private)* | Cross-platform Vexanium wallet with DApp browser and secure key management. | *(private)* |
+| **WindExplorer** *(soon)* | Blockchain explorer for Vexanium with token analytics & DeFi stats. | *(coming soon)* |
+
